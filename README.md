@@ -1,5 +1,5 @@
 # starter_gulp_lpmiaw_v1
 
-gulp:dev
+npm run gulp:dev
 
-gulp:build
+npm run gulp:build
