@@ -1,5 +1,5 @@
 {
-  "name": "starter_gulp_lpmiaw_v1",
+  "name": "starter-gulp",
   "version": "1.0.0",
   "description": "",
   "main": "gulpfile.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@gitlab.univ-lr.fr:abourmau/starter_gulp_lpmiaw_v1.git"
+    "url": "git@github.com:loicqql/starter-gulp.git"
   },
   "keywords": [],
   "author": "",
@@ -32,8 +32,7 @@
     "gulp-imagemin": "^6.1.0",
     "gulp-jsmin": "^0.1.5",
     "gulp-plumber": "^1.2.1",
-    "gulp-sass": "^4.1.0",
-    "node-sass": "^4.14.1"
+    "gulp-dart-sass": "^1.0.2"
   },
   "browserslist": [
     "last 2 version",
